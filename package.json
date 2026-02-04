@@ -1,0 +1,26 @@
+{
+  "name": "agent-fortune",
+  "version": "0.1.0",
+  "description": "OpenCode fortune cookie subagent with optional installer",
+  "license": "MIT",
+  "bin": {
+    "agent-fortune": "bin/agent-fortune.js"
+  },
+  "files": [
+    "agents/fortune.md",
+    "prompts/fortune.txt",
+    "bin/agent-fortune.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "opencode",
+    "agent",
+    "fortune",
+    "prompt",
+    "subagent"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
