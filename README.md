@@ -5,14 +5,13 @@ Tiny, silly fortune-cookie agent for OpenCode.
 ## Install
 
 ```bash
-npm install agent-fortune
-npx agent-fortune install --global
+npx --yes agent-fortune install --global
 ```
 
 To install only for the current repo:
 
 ```bash
-npx agent-fortune install --project
+npx --yes agent-fortune install --project
 ```
 
 The installer respects `OPENCODE_CONFIG_DIR` if you set it.
