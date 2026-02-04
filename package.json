@@ -3,6 +3,14 @@
   "version": "0.1.0",
   "description": "OpenCode fortune cookie subagent with optional installer",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dariorapisardi/fortune.git"
+  },
+  "homepage": "https://github.com/dariorapisardi/fortune#readme",
+  "bugs": {
+    "url": "https://github.com/dariorapisardi/fortune/issues"
+  },
   "bin": {
     "agent-fortune": "bin/agent-fortune.js"
   },
