@@ -1,6 +1,14 @@
 # Agent Fortune
 
+[![npm](https://img.shields.io/npm/v/agent-fortune?color=brightgreen)](https://www.npmjs.com/package/agent-fortune)
+
 Tiny, silly fortune-cookie agent for OpenCode.
+
+Quick install:
+
+```bash
+npx --yes agent-fortune install --global
+```
 
 ## Install
 
